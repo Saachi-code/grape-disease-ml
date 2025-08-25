@@ -26,6 +26,3 @@ Models trained and compared:
 
 ## 📂 Repository Structure
 - `Final_Report.pdf` – complete research report (theory, dataset, methods, results)  
-- `/models` – Python scripts for training each model (TensorFlow / PyTorch)  
-- `/data` – dataset or download instructions (not committed if large)  
-- `/figures` – training/validation plots (accuracy, loss curves, confusion matrices)  
