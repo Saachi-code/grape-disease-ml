@@ -25,4 +25,4 @@ Models trained and compared:
 ---
 
 ## 📂 Repository Structure
-- `Final_Report.pdf` – complete research report (theory, dataset, methods, results)  
+- `Final_Report.pdf` – complete research report (theory, dataset, methods, results, code)  
